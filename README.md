@@ -22,8 +22,10 @@ playing these releases the tension
 
 -----------------------------
 |Name        |Location|Cost|
+|------------|--------|----|
 |badminton   |park    |$50 |
 |cricket     | park   |$30 |
 |table tennis| park   |$40 |
 |basketball  |park    |$60 | 
 -----------------------------
+
