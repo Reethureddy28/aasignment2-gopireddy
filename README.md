@@ -32,7 +32,7 @@ playing these releases the tension
 -------------------------------------------
 #Quotes
 
->Even if we don't have the power to choose where we come from, we can still choose where we go from there. *— Stephen Chbosky*
+>Everything is hard before it is easy. *—Johann Wolfgang von Goethe*
 
->But I am very poorly today & very stupid & I hate everybody & everything. One lives only to make blunders. *― Charles Darwin*
+>Anyone who has never made a mistake has never tried anything new. *—Albert Einstein*
 
