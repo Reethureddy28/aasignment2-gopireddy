@@ -13,5 +13,22 @@ Kentucky Fried Chicken, which began as roadside restauarnt serving chicken with 
 
 (MyFavourite)[https://github.com/Reethureddy28/aasignment2-gopireddy/blob/main/AboutMe.md]
 
+---------------------------
+# MY FAV SPORTS
 
+I like playing sports
+playing badminton,cricket,table tennis and basketball
+playing these releases me the tension
+
+-----------------------------
+|Name        |Location|Cost|
+---------------------------
+|badminton   |park    |$50 |
+---------------------------
+|cricket     | park   |$30 |
+---------------------------
+|table tennis| park   |$40 |
+---------------------------
+|basketball  |park    |$60 |
+-----------------------------
 
