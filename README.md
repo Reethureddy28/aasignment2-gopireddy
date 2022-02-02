@@ -18,7 +18,7 @@ Kentucky Fried Chicken, which began as roadside restauarnt serving chicken with 
 
 I like playing sports
 playing badminton,cricket,table tennis and basketball
-playing these releases me the tension
+playing these releases the tension
 
 -----------------------------
 |Name        |Location|Cost|
@@ -29,6 +29,6 @@ playing these releases me the tension
 |------------|--------|----|
 |table tennis| park   |$40 |
 |------------|--------|----|
-|basketball  |park    |$60 |
+|basketball  |park    |$60 | 
 |------------|--------|----|
 
