@@ -29,3 +29,9 @@ playing these releases the tension
 |basketball  |park    |$60 | 
 -----------------------------
 
+-------------------------------------------
+#  Quotes
+>Even if we don't have the power to choose where we come from, we can still choose where we go from there. * —Stephen Chbosky*
+
+>But I am very poorly today & very stupid & I hate everybody & everything. One lives only to make blunders. * ―Charles Darwin*
+
