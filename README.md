@@ -11,7 +11,7 @@ Kentucky Fried Chicken, which began as roadside restauarnt serving chicken with 
 3. enroute to Lb nagar
 4. There we will find a place call kfc
 
-[About me](AboutMe.md)
+[About me](https://github.com/Reethureddy28/aasignment2-gopireddy/blob/main/AboutMe.md)
 
 ---------------------------
 # MY FAV SPORTS
