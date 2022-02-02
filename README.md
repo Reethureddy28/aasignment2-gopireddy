@@ -41,29 +41,32 @@ playing these releases the tension
 
 A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.Graphs are used to solve many real-life problems. Graphs are used to represent networks. The networks may include paths in a city or telephone network or circuit network. Graphs are also used in social networks like linkedIn, Facebook. For example, in Facebook, each person is represented with a vertex( or node).Each node is a structure and contains information.
 <https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/>
-1. vector<vector<int>> adj;  // adjacency list representation
-2. int n; // number of nodes
-3. int s; // source vertex
+ ///
+ vector<vector<int>> adj;  // adjacency list representation
+ int n; // number of nodes
+ int s; // source vertex
 
-4. queue<int> q;
-5. vector<bool> used(n);
-6. vector<int> d(n), p(n);
+ queue<int> q;
+ vector<bool> used(n);
+ vector<int> d(n), p(n);
 
-7. q.push(s);
-8. used[s] = true;
-9. p[s] = -1;
-10. while (!q.empty()) {
-11.   int v = q.front();
-12.  q.pop();
-13.   for (int u : adj[v]) {
-14.       if (!used[u]) {
-15.           used[u] = true;
-16.           q.push(u);
-17.           d[u] = d[v] + 1;
-18.           p[u] = v;
-19.       }
-20.   }
-21. }
+ q.push(s);
+ used[s] = true;
+ p[s] = -1;
+ while (!q.empty()) {
+   int v = q.front();
+  q.pop();
+   for (int u : adj[v]) {
+       if (!used[u]) {
+           used[u] = true;
+           q.push(u);
+           d[u] = d[v] + 1;
+           p[u] = v;
+       }
+   }
+ }
+ ///
+
 <https://cp-algorithms.com/graph/breadth-first-search.html>
 
 
