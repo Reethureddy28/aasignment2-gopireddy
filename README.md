@@ -6,12 +6,21 @@ Kentucky Fried Chicken, which began as roadside restauarnt serving chicken with 
 
 --------------------------
 
-# Way to my favourite restaurant
+## Way to my favourite restaurant ##
 
-1. Catch a flight to India
-2. Go to Hyderabad
-3. enroute to Lb nagar
-4. There we will find a place call kfc
+1. Catch a flight to India.
+2. Go to Hyderabad.
+3. enroute to Lb nagar.
+4. There we will find a place call kfc.
+
+----------------------------
+
+## Some food items ##
+
+* Burger
+* Pizza
+* Biryani
+* French fries
 
 [AboutMe](https://github.com/Reethureddy28/aasignment2-gopireddy/blob/main/AboutMe.md)
 
